@@ -6,10 +6,9 @@
 ## About 
 This is a repo  about me and i have created this to tell my journey till now. This is my personal website and i would like use this throughout the class with other additional technologies.
 ## Recommended Tools
+
 -Open brower and go to  GitHub,next we go to our GitHub Pages site's repository.
-
 -Followed step is  Repository settings, Under our repository name, click  Settings.
-
 -Then select-githubpages. We Will Use the "Select source drop-down list" to select master branch as your GitHub Pages publishing source.
 
 -click on save. wait for a while and refresh it, a tick mark and a link will be obtained which means our page gets published.
