@@ -14,9 +14,9 @@ This is a repo  about me and i have created this to tell my journey till now. Th
 
 -click on save. wait for a while and refresh it, a tick mark and a link will be obtained which means our page gets published.
 ## Recommended sources
-- https://learn.shayhowe.com/html-css/getting-to-know-html/
-- https://www.w3schools.com/html/
-- https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
+- [shayhowe](https://learn.shayhowe.com/html-css/getting-to-know-html/)
+- [w3schools](https://www.w3schools.com/html/)
+- [developermozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 
 ## Contributors
 
