@@ -8,12 +8,12 @@
 This is a repo  about me and i have created this to tell my journey till now. This is my personal website and i would like use this throughout the class with other additional technologies.
 ## Recommended Tools
 
-- [Git](Open brower and go to  GitHub,next we go to our GitHub Pages site's repository)
-- Followed step is  Repository settings, Under our repository name, click  Settings
-- Then select-githubpages. We Will Use the "Select source drop-down list" to select master branch as your GitHub Pages publishing source.
-- [Final](click on save. wait for a while and refresh it, a tick mark and a link will be obtained which means our page gets published)
-- [Notepad++](using text editor we can create a .txt index file and upload it to our repository)
-- [Clone](we can push and make changes in our local machine and commit the changes to repo)
+- "Git" Open brower and go to  GitHub,next we go to our GitHub Pages site's repository.
+- "Repository settings" is Followed step , Under our repository name, click  Settings.
+- "Then select-githubpages",We Will Use "Select source drop-down list" to select master branch as our GitHub Pages publishing source.
+- "Final tool" click on save. wait for a while and refresh it, a tick mark and a link will be obtained which means our page gets published
+- "Notepad++" using text editor we can create a .txt index file and upload it to our repository.
+- "Clone" we can push and make changes in our local machine and commit the changes to repo.
 
 -click on save. wait for a while and refresh it, a tick mark and a link will be obtained which means our page gets published.
 ## Recommended sources
