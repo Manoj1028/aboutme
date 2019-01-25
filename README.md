@@ -1,7 +1,7 @@
 # aboutme
 ## Repository links
 
-- [source-github repo link](https://github.com/Manoj1028/aboutme,"abc")
+- [source](https://github.com/Manoj1028/aboutme,"abc")
 - [published link](https://manoj1028.github.io/aboutme/"bvs")
 ## About 
 This is a repo  about me and i have created this to tell my journey till now. This is my personal website and i would like use this throughout the class with other additional technologies.
