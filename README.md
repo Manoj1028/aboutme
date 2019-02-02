@@ -5,10 +5,11 @@
 
 - [Hosted page published link](https://manoj1028.github.io/aboutme/)
 
-##About 
+## About 
+
 This is a repo  about me and I have created this to tell my journey till now. This is my personal website and I would like use this throughout the class with other additional technologies.
 
-##Recommended Tools
+## Recommended Tools
 
 - [Git](https://github.com/) Open brower and go to  GitHub, Next we go to our GitHub Pages site's repository.
 - [Visual Studio](https://code.visualstudio.com/)
@@ -17,6 +18,7 @@ This is a repo  about me and I have created this to tell my journey till now. Th
 
 
 ## Recommended sources
+
 - [shayhowe](https://learn.shayhowe.com/html-css/getting-to-know-html/)
 - [w3schools](https://www.w3schools.com/html/)
 - [developermozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
