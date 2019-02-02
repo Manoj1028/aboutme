@@ -8,7 +8,7 @@
 This is a repo  about me and i have created this to tell my journey till now. This is my personal website and i would like use this throughout the class with other additional technologies.
 ## Recommended Tools
 
-- [Git](https://github.com/) Open brower and go to  GitHub,next we go to our GitHub Pages site's repository
+- [Git](https://github.com/) Open brower and go to  GitHub,next we go to our GitHub Pages site's repository.
 - [Visual Studio](https://code.visualstudio.com/)
 - [Node js](https://nodejs.org/en/)
 - [Notepad++](https://notepad-plus-plus.org/)
