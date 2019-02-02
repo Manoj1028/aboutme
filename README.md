@@ -11,7 +11,7 @@ This is a repo  about me and I have created this to tell my journey till now. Th
 
 ## Recommended Tools
 
-- [Git](https://github.com/) Open brower and go to  GitHub, Next we go to our GitHub Pages site's repository.
+- [Git](https://github.com/)     Open brower and go to  GitHub, Next we go to our GitHub Pages site's repository.
 - [Visual Studio](https://code.visualstudio.com/)
 - [Node js](https://nodejs.org/en/)
 - [Notepad++](https://notepad-plus-plus.org/)
