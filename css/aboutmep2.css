@@ -18,9 +18,23 @@ section {
   border-radius: 2em;
 }
 
+  #outputMeters{
+    background-color:transparent;
+    color:black;
+    padding: 10px;
+    text-align: center;
+  }
+  #CON{
+    color: blue
+  }
+.row{
+  color: green;}
+  #edu{
+    background-color: lighting-color;
+  }
 
 .backgroundimg {
-  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/00/13/50/36564b25a8b2293.jpg");
+  background-image: url("http://foragoodcause.info/wp-content/uploads/2018/05/white-marble-background-hd-white-marble-texture-white-marble-iphone-background-hd.jpg");
   height: 100%;
   position: relative;
   opacity: 0.85;
