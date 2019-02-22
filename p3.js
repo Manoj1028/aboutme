@@ -12,6 +12,7 @@ function lengthConverter1(valNum) {
   document.getElementById('outputMeters').innerHTML = m
 
   return m;
+  
 }
 
 function loadDoc() {
