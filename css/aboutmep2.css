@@ -43,3 +43,6 @@ section {
   background-size: cover;
   background-attachment: fixed; /* fixed in viewport */
 }
+#vi{
+  border-radius: 4em;
+}
