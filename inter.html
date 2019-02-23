@@ -14,16 +14,17 @@
 
   <link rel="stylesheet" href="./css/aboutmep2.css">
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-  crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
-  crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
-  crossorigin="anonymous"></script>
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+    crossorigin="anonymous"></script>
 
-<script  src="scripts/case.js"></script>
-<script src="./qunit.html"></script>
+  <script src="scripts/case.js"></script>
+  <script src="./qunit.html"></script>
 
-<script src="./p3.js"></script>
+  <script src="./p3.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
   <title> Manoj Blog</title>
 
@@ -47,8 +48,8 @@
         <li class="nav-item">
           <a class="nav-link active" href="inter.html">Feet to meter validation</a>
         </li>
-      </li>
-      <li class="nav-item">
+        </li>
+        <li class="nav-item">
           <a class="nav-link active" href="qunit.html">QUnit Test</a>
         </li>
       </ul>
@@ -58,12 +59,12 @@
       </form>
     </div>
   </nav>
-  
+
   <header class="container-fluid">
-      <h1>Feet to Meter Converter</h1>
-    </header>
-  
-    <hr>
+    <h1>Feet to Meter Converter</h1>
+  </header>
+
+  <hr>
 
 
 
@@ -71,38 +72,46 @@
 
 
   <p>
-      <label>Feet</label>
-                        <input type="text"  id="valNum" placeholder="Feet"/>
-                        <!-- oninput="lengthConverter(this.value)" onchange="lengthConverter()">
+    <label>Feet</label>
+    <input type="text" id="valNum" placeholder="Feet" />
+    <!-- oninput="lengthConverter(this.value)" onchange="lengthConverter()">
                       </p> cm: <span id="outputMeters"></span></p> -->
-                      <input type="submit" value="calculate" onclick="lengthConverter()"/><br>
-                      <output type="text" id="outputMeters"></output> Meters
-                      <p id="outputMeters"></p>
-                      <p id="valnum"></p><br>
-                      <br>
-                      <div id="demo">
-                          <h2>The XMLHttpRequest Object</h2>
-                          <button type="button" onclick="loadDoc()">Change Content</button>
-                          </div>
+    <input type="submit" value="calculate" onclick="lengthConverter()" /><br>
+    <output type="text" id="outputMeters"></output> Meters
+    <p id="outputMeters"></p>
+    <p id="valnum"></p><br>
+    <br>
+    <div id="demo">
+      <h2>The XMLHttpRequest Object</h2>
+      <button type="button" onclick="loadDoc()">Change Content</button>
+    </div>
+    <br><br>
 
-                        </main>
+    <button id="jq">Click here!!</button><br><br>
+
+    <p id="fade">Welcome to my Page Jquery</p>
+</body>
+
+</main>
 
 
-  <!-- <script>
-    function lengthConverter(valNum) {
-      document.getElementById("outputMeters").innerHTML = valNum / 0.0022046;
-    }
-  </script> -->
-  <br>
-  <br>
-  
+<script>
+   $(document).ready(function(){
+   $('button').click(function(){
+    $("#fade").fadeToggle('slow');
+  });
+});
+  </script>
+<br>
+<br>
+
 
 <footer class="container-fluid">
-    &copy; Feb 2019 Manoj
-  </footer>
+  &copy; Feb 2019 Manoj
+</footer>
 </body>
-  
-   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
 
 

@@ -10,10 +10,15 @@ function lengthConverter1(valNum) {
 
     let m = temp / 0.0022046;
   document.getElementById('outputMeters').innerHTML = m
+  localStorage.getItem('Length in meters :',m)
+  localStorage.getItem('Length in feet:',temp)
 
   return m;
-  
+
 }
+
+
+
 
 function loadDoc() {
     var xhttp = new XMLHttpRequest();
